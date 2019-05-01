@@ -1,5 +1,5 @@
 # lowlevel-study
-make C compiler, written by Assembly
+make C compiler, written by C, Assembly
 
 ## development
 
