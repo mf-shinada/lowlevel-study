@@ -22,3 +22,6 @@ COPY cb_00_02_fourty_two/* $WORKSPACE_PATH/cb_00_02_fourty_two/
 
 RUN mkdir $WORKSPACE_PATH/cb_00_03_plus
 COPY cb_00_03_plus/* $WORKSPACE_PATH/cb_00_03_plus/
+
+RUN mkdir $WORKSPACE_PATH/cb_01_01_single_args
+COPY cb_01_01_single_args/* $WORKSPACE_PATH/cb_01_01_single_args/
